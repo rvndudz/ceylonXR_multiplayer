@@ -17,9 +17,11 @@
         "include-media": "^2.0.0",
         "nodemon": "^2.0.22",
         "sass": "^1.63.6",
-        "vite": "^4.3.9"
+        "vite": "^4.3.9",
+        "vite-plugin-cross-origin-isolation": "^0.1.6"
     },
     "dependencies": {
+        "@mkkellogg/gaussian-splats-3d": "^0.4.7",
         "cors": "^2.8.5",
         "dotenv": "^16.3.1",
         "events": "^3.3.0",
@@ -27,6 +29,6 @@
         "nipplejs": "^0.10.1",
         "socket.io": "^4.7.1",
         "socket.io-client": "^4.7.1",
-        "three": "^0.154.0"
+        "three": "^0.175.0"
     }
 }
