@@ -35,7 +35,6 @@ export default [
                         "textures/environment/nz.png",
                     ],
                 },
-                
             ],
         },
     },
